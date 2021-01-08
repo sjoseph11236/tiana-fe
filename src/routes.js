@@ -12,6 +12,7 @@ const Routes = () => {
       {/* Routes placed here are available to all visitors */}
       <Route path='/aboutMe' component={AboutMe} />
       <Route exact path='/tiana-fe' component={Home} />
+      <Route exact path='/' component={Home} />
       <Route path="/beauty" component={Beauty} />
       {isLoggedIn && (
         <Switch>
