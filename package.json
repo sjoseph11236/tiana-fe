@@ -2,7 +2,7 @@
   "name": "tiana-portfolio-fe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sjoseph11236/tian-fe",
+  "homepage": "https://sjoseph11236.github.io/tiana-fe",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
