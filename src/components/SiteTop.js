@@ -10,7 +10,7 @@ const SiteTop = () => {
             <div className="clearfix menu-bar">
               <ul id="menu-main-menu" className="menu">
                 <li>
-                  <Link to='/'>
+                  <Link to='/tiana-fe'>
                     <a>Home</a>
                   </Link>
                 </li>
