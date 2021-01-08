@@ -1,24 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import SocialSidebar from './components/SocialSidebar';
+import SiteHeader from './components/SiteHeader';
+import SiteTop from './components/SiteTop';
+import Routes from './routes';
+import BackToTopButton from './components/BackToTopButton';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <SocialSidebar />
+      <SiteHeader />
+      <SiteTop />
+      <Routes />
+      <BackToTopButton />
+      <Footer />
+    </>
   );
 }
 
