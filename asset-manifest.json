@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/tiana-fe/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/tiana-fe/static/js/main.56fff836.chunk.js",
-    "main.js.map": "/tiana-fe/static/js/main.56fff836.chunk.js.map",
-    "runtime-main.js": "/tiana-fe/static/js/runtime-main.858aa99f.js",
-    "runtime-main.js.map": "/tiana-fe/static/js/runtime-main.858aa99f.js.map",
-    "static/js/2.5b6bde73.chunk.js": "/tiana-fe/static/js/2.5b6bde73.chunk.js",
-    "static/js/2.5b6bde73.chunk.js.map": "/tiana-fe/static/js/2.5b6bde73.chunk.js.map",
-    "static/js/3.46efb028.chunk.js": "/tiana-fe/static/js/3.46efb028.chunk.js",
-    "static/js/3.46efb028.chunk.js.map": "/tiana-fe/static/js/3.46efb028.chunk.js.map",
+    "main.css": "/tiana-fe/static/css/main.a6f97480.chunk.css",
+    "main.js": "/tiana-fe/static/js/main.db19b759.chunk.js",
+    "main.js.map": "/tiana-fe/static/js/main.db19b759.chunk.js.map",
+    "runtime-main.js": "/tiana-fe/static/js/runtime-main.2cb12ff2.js",
+    "runtime-main.js.map": "/tiana-fe/static/js/runtime-main.2cb12ff2.js.map",
+    "static/js/2.ab099fe4.chunk.js": "/tiana-fe/static/js/2.ab099fe4.chunk.js",
+    "static/js/2.ab099fe4.chunk.js.map": "/tiana-fe/static/js/2.ab099fe4.chunk.js.map",
     "index.html": "/tiana-fe/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/tiana-fe/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5b6bde73.chunk.js.LICENSE.txt": "/tiana-fe/static/js/2.5b6bde73.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tiana-fe/static/media/logo.6ce24c58.svg"
+    "static/css/main.a6f97480.chunk.css.map": "/tiana-fe/static/css/main.a6f97480.chunk.css.map",
+    "static/js/2.ab099fe4.chunk.js.LICENSE.txt": "/tiana-fe/static/js/2.ab099fe4.chunk.js.LICENSE.txt",
+    "static/media/home1.f57d5df7.jpg": "/tiana-fe/static/media/home1.f57d5df7.jpg",
+    "static/media/home2.31621626.jpg": "/tiana-fe/static/media/home2.31621626.jpg",
+    "static/media/main.ccc6cf30.jpg": "/tiana-fe/static/media/main.ccc6cf30.jpg",
+    "static/media/t-3.5a4a0e2a.jpg": "/tiana-fe/static/media/t-3.5a4a0e2a.jpg",
+    "static/media/t-7.0bc3beb9.jpg": "/tiana-fe/static/media/t-7.0bc3beb9.jpg",
+    "static/media/t.cc6836da.jpg": "/tiana-fe/static/media/t.cc6836da.jpg",
+    "static/media/t11.a7b3cd02.jpg": "/tiana-fe/static/media/t11.a7b3cd02.jpg",
+    "static/media/t2.e92cd18a.jpg": "/tiana-fe/static/media/t2.e92cd18a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.858aa99f.js",
-    "static/js/2.5b6bde73.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.56fff836.chunk.js"
+    "static/js/runtime-main.2cb12ff2.js",
+    "static/js/2.ab099fe4.chunk.js",
+    "static/css/main.a6f97480.chunk.css",
+    "static/js/main.db19b759.chunk.js"
   ]
 }
