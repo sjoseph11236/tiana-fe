@@ -10,17 +10,17 @@ const SiteTop = () => {
             <div className="clearfix menu-bar">
               <ul id="menu-main-menu" className="menu">
                 <li>
-                  <Link to='/tiana-fe'>
+                  <Link to={process.env.PUBLIC_URL + '/'}>
                     <a>Home</a>
                   </Link>
                 </li>
                 <li>
-                  <Link to="/aboutMe">
+                  <Link to={process.env.PUBLIC_URL + "/aboutMe"}>
                     <a>About Me</a>
                   </Link>
                 </li>
                 <li>
-                  <Link to="/beauty">
+                  <Link to={process.env.PUBLIC_URL + "/beauty"}>
                     <a>Beauty</a>
                   </Link>
                 </li>
